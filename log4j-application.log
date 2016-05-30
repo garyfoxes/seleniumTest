@@ -1,0 +1,40 @@
+Waiting for mens gift
+Waiting for mens gift
+Clicking SuperCar Driving Blast
+Selecting Alert
+2016-05-12 10:10:03,158 DEBUG s.BuyAGift Waiting for mens gift
+2016-05-12 10:10:10,548 DEBUG s.BuyAGift Clicking SuperCar Driving Blast
+2016-05-12 10:10:23,194 INFO s.BuyAGift Selecting Alert
+2016-05-12 10:18:27 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 10:18:32 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 10:18:44 INFO  BuyAGift:43 - Selecting Alert
+2016-05-12 11:14:13 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 11:14:19 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 11:33:24 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 11:33:28 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 11:33:41 INFO  BuyAGift:47 - Selecting Alert
+2016-05-12 11:34:05 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 11:34:08 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 11:35:59 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 11:36:04 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 11:36:17 INFO  BuyAGift:47 - Selecting Alert
+2016-05-12 12:08:25 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:08:28 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:08:41 INFO  BuyAGift:47 - Selecting Alert
+2016-05-12 12:09:50 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:09:53 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:10:07 INFO  BuyAGift:47 - Selecting Alert
+2016-05-12 12:13:14 DEBUG seleniumTest.BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:13:17 DEBUG seleniumTest.BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:13:31 INFO  seleniumTest.BuyAGift:47 - Selecting Alert
+2016-05-12 12:14:39 DEBUG seleniumTest.BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:14:42 DEBUG seleniumTest.BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:17:28 DEBUG BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:17:31 DEBUG BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:19:12  BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:19:16  BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:19:46 DEBUG seleniumTest.BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:19:49 DEBUG seleniumTest.BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:27:22 DEBUG seleniumTest.BuyAGift:26 - Waiting for mens gift
+2016-05-12 12:27:25 DEBUG seleniumTest.BuyAGift:31 - Clicking SuperCar Driving Blast
+2016-05-12 12:27:41 INFO  seleniumTest.BuyAGift:47 - Selecting Alert

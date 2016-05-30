@@ -1,0 +1,16 @@
+DEBUG main seleniumTest.BuyAGift - Waiting for mens gift
+DEBUG main seleniumTest.BuyAGift - Clicking SuperCar Driving Blast
+INFO main seleniumTest.BuyAGift - Selecting Alert
+DEBUG main seleniumTest.BuyAGift - Waiting for mens gift
+DEBUG main seleniumTest.BuyAGift - Clicking SuperCar Driving Blast
+INFO main seleniumTest.BuyAGift - Selecting Alert
+DEBUG main seleniumTest.BuyAGift - Waiting for mens gift
+DEBUG main seleniumTest.BuyAGift - Clicking SuperCar Driving Blast
+DEBUG main seleniumTest.BuyAGift - Waiting for mens gift
+DEBUG main seleniumTest.BuyAGift - Clicking SuperCar Driving Blast
+INFO main seleniumTest.BuyAGift - Selecting Alert
+11/May/2016 18:16:49,752- BuyAGift: Selecting Alert
+11/May/2016 18:18:29,536- BuyAGift: (BuyAGift.java:43) - Selecting Alert
+11/May/2016 18:25:02,905- BuyAGift: Selecting Alert
+11/May/2016 18:26:24,855- BuyAGift: Waiting for mens gift
+11/May/2016 18:26:27,665- BuyAGift: Clicking SuperCar Driving Blast
